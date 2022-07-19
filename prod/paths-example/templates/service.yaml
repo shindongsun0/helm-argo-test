@@ -11,6 +11,6 @@ spec:
     - port: 8080
       targetPort: 8080
       protocol: TCP
-      name: nginx4
+      name: nginx5
   selector:
     app: test
